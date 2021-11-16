@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "xhtml/xhtml",
+    "public": "angular-kripton/package/src/",
     "ignore": [
       "firebase.json",
       "**/.*",
