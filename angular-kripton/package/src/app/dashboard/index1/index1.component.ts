@@ -17,27 +17,7 @@ export class Index1Component implements OnInit {
           name: "Samuel",
           username: "@sam224",
           image: "assets/images/contacts/1.jpg",
-        },
-        {
-          name: "Cindy",
-          username: "@cindyss",
-          image: "assets/images/contacts/2.jpg",
-        },
-        {
-          name: "David",
-          username: "@davidxc",
-          image: "assets/images/contacts/3.jpg",
-        },
-        {
-          name: "Martha",
-          username: "@marthaa",
-          image: "assets/images/contacts/4.jpg",
-        },
-        {
-          name: "Olivia",
-          username: "@oliv62",
-          image: "assets/images/contacts/5.jpg",
-        },
+        }
   ];
 
 }

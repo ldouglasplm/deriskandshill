@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "prod": "deriskandshill"
+  },
+  "targets": {
+    "deriskandshill": {
+      "hosting": {
+        "kripton": [
+          "deriskandshill"
+        ]
+      }
+    }
+  }
+}

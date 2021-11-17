@@ -57,68 +57,12 @@ const QuickTransferSlider = () => {
           <span className="fs-12">@sam224</span>
         </div>
       </div>
-      <div className="items">
-        <div className="text-center">
-          <img className="mb-3 rounded" src={contacts2} alt="" />
-          <h5 className="text-black mb-0">Cindy</h5>
-          <span className="fs-12">@cindyss</span>
-        </div>
-      </div>
-      <div className="items">
-        <div className="text-center">
-          <img className="mb-3 rounded" src={contacts3} alt="" />
-          <h5 className="text-black mb-0">David</h5>
-          <span className="fs-12">@davidxc</span>
-        </div>
-      </div>
-      <div className="items">
-        <div className="text-center">
-          <img className="mb-3 rounded" src={contacts4} alt="" />
-          <h5 className="text-black mb-0">Martha</h5>
-          <span className="fs-12">@marthaa</span>
-        </div>
-      </div>
-      <div className="items">
-        <div className="text-center">
-          <img className="mb-3 rounded" src={contacts5} alt="" />
-          <h5 className="text-black mb-0">Olivia</h5>
-          <span className="fs-12">@oliv62</span>
-        </div>
-      </div>
 
       <div className="items">
         <div className="text-center">
           <img className="mb-3 rounded" src={contacts1} alt="" />
           <h5 className="text-black mb-0">Samuel</h5>
           <span className="fs-12">@sam224</span>
-        </div>
-      </div>
-      <div className="items">
-        <div className="text-center">
-          <img className="mb-3 rounded" src={contacts2} alt="" />
-          <h5 className="text-black mb-0">Cindy</h5>
-          <span className="fs-12">@cindyss</span>
-        </div>
-      </div>
-      <div className="items">
-        <div className="text-center">
-          <img className="mb-3 rounded" src={contacts3} alt="" />
-          <h5 className="text-black mb-0">David</h5>
-          <span className="fs-12">@davidxc</span>
-        </div>
-      </div>
-      <div className="items">
-        <div className="text-center">
-          <img className="mb-3 rounded" src={contacts4} alt="" />
-          <h5 className="text-black mb-0">Martha</h5>
-          <span className="fs-12">@marthaa</span>
-        </div>
-      </div>
-      <div className="items">
-        <div className="text-center">
-          <img className="mb-3 rounded" src={contacts5} alt="" />
-          <h5 className="text-black mb-0">Olivia</h5>
-          <span className="fs-12">@oliv62</span>
         </div>
       </div>
     </Slider>

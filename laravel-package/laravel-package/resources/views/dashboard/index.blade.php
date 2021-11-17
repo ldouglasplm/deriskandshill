@@ -262,34 +262,6 @@
 										<span class="fs-12">@sam224</span>
 									</div>
 								</div>
-								<div class="items">
-									<div class="text-center">
-										<img class="mb-3 rounded" src="{{ asset('images/contacts/2.jpg') }}" alt="">
-										<h5 class="text-black mb-0">Cindy</h5>
-										<span class="fs-12">@cindyss</span>
-									</div>
-								</div>
-								<div class="items">
-									<div class="text-center">
-										<img class="mb-3 rounded" src="{{ asset('images/contacts/3.jpg') }}" alt="">
-										<h5 class="text-black mb-0">David</h5>
-										<span class="fs-12">@davidxc</span>
-									</div>
-								</div>
-								<div class="items">
-									<div class="text-center">
-										<img class="mb-3 rounded" src="{{ asset('images/contacts/4.jpg') }}" alt="">
-										<h5 class="text-black mb-0">Martha</h5>
-										<span class="fs-12">@marthaa</span>
-									</div>
-								</div>
-								<div class="items">
-									<div class="text-center">
-										<img class="mb-3 rounded" src="{{ asset('images/contacts/5.jpg') }}" alt="">
-										<h5 class="text-black mb-0">Olivia</h5>
-										<span class="fs-12">@oliv62</span>
-									</div>
-								</div>
 							</div>
 							<div class="amount-bx">
 								<label>Amount ETH</label>

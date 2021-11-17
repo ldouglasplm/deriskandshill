@@ -7,7 +7,7 @@ import {SharedService} from '../shared.service';
   styleUrls: ['./admin.component.css']
 })
 export class AdminComponent implements OnInit {
-  title = 'kripton';
+  title = 'Derisk and Shill';
   navSidebarClass: boolean = true;
   hamburgerClass: boolean = false;
 
